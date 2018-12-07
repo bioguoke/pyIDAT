@@ -1,0 +1,9 @@
+README.rst
+__init__.py
+pyIDAT.py
+setup.py
+pyIDAT.egg-info/PKG-INFO
+pyIDAT.egg-info/SOURCES.txt
+pyIDAT.egg-info/dependency_links.txt
+pyIDAT.egg-info/requires.txt
+pyIDAT.egg-info/top_level.txt

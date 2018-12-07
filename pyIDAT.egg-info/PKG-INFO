@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: pyIDAT
+Version: 1.0
+Summary: analysis for illumina beadarray .idat format file
+Home-page: https://github.com/bioguoke/pyIDAT
+Author: zilhua
+Author-email: andyzilhua@qq.com
+License: GPLv3
+Description: UNKNOWN
+Keywords: pyIDAT,idat
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
